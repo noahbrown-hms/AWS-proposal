@@ -99,7 +99,7 @@ end
 
 ### Large image
 
-![](https://github.com/noahbrown-hms/AWS-proposal/AWS.Proposal.Architecture.png)
+![](AWS.Proposal.Architecture.png)
 
 ### Definition lists can be used with HTML syntax.
 
